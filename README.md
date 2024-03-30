@@ -29,3 +29,4 @@ Are you interested in building a Rust API with CRUD functionalities using the Ax
 Read the entire article here: [https://codevoweb.com/rust-crud-api-example-with-axum-and-postgresql/](https://codevoweb.com/rust-crud-api-example-with-axum-and-postgresql/)
 
 https://medium.com/@raditzlawliet/build-crud-rest-api-with-rust-and-mysql-using-axum-sqlx-d7e50b3cd130
+https://medium.com/@qkpiot/building-a-robust-rust-backend-with-axum-diesel-postgresql-and-ddd-from-concept-to-deployment-b25cf5c65bc8
